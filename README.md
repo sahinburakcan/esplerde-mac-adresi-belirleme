@@ -1,1 +1,1 @@
-# esplerde-mac-adresi-belirleme
+espNow haberleşmesi için gerekli mac adreslerini bulunması için koddur.
